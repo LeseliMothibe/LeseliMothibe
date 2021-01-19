@@ -4,6 +4,7 @@
 <p align='center'>
   👩🏽‍🎓 <a href="https://www.wits.ac.za">Wits<a/> BSc Computer Science Graduate <br>
   📫 <a href="mailto:senatemothibe@icloud.com">Reach me here<a/>
+  🛩 Aspiring Computational Aeronautical Engineer
 </p>
   
   
