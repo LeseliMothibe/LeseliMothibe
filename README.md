@@ -2,8 +2,7 @@
 
 <h1 align='center'> Hi! ✨</h1>
 <p align='center'>
-  👩🏽‍🎓 <a href="https://www.wits.ac.za">Wits<a/> BSc Computer Science Graduate <br>
-  🛩 Aspiring Computational Aeronautical Engineer <br>
+  👩🏽‍🎓 <a href="https://www.wits.ac.za">Wits<a/> MSc Computer Science Candidate <br>
   📫 <a href="mailto:senatemothibe@icloud.com">Reach me here<a/>
   
 </p>
